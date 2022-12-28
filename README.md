@@ -39,6 +39,6 @@ Ao ser chamado enviando o id(short URL) retorna a quantidade de acessos que a sh
 
 ## Créditos
 
-Este projeto foi desenvolvido baseado em um tutorial do Denim Mazuck e do HallenWeaver, porém, foram-se encontrados alguns bugs e atualizações devido a versão antiga do Java que foram resolvidos por mim, implementei também algumas melhorias de cógido e teste de uma das classes.
+Este projeto foi desenvolvido baseado em um tutorial do Denim Mazuck e do HallenWeaver, porém, foram-se encontrados alguns bugs e atualizações devido a versão antiga do Java que foram resolvidos por mim, implementei também algumas melhorias de códido e teste de uma das classes.
 
 
