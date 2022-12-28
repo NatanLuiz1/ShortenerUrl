@@ -31,11 +31,11 @@ Deve receber um body no format-json passando da seguinte forma:  {"url": "urltes
 
 #GET /{id}
 
-Ao ser chamado enviando o id(short URL) ele retorna o Url Original
+Ao ser chamado enviando o id(da shortURL) ele retorna o Url Original
 
 #GET /metrics{id}
 
-Ao ser chamado enviando o id(short URL) retorna a quantidade de acessos que a short url teve
+Ao ser chamado enviando o id(da shortURL) retorna a quantidade de acessos que a short url teve
 
 ## Créditos
 
